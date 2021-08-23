@@ -1,0 +1,17 @@
+{
+  "title": "<Chainsawman Colored>",
+  "description": "<By u/thepeciguy>",
+  "artist": "<Tatsuki Fujimoto>",
+  "author": "<Tatsuki Fujimoto>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<7>": {
+      "title": "<Meowy's Whereabouts>",
+      "volume": "<1>",
+      "groups": {
+        "<Thepeciguy>": "/proxy/api/imgur/chapter/<Pfte0ap>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
