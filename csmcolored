@@ -3,7 +3,7 @@
    "description":"<nodesc>",
    "artist":"<Tatsuki Fujimoto>",
    "author":"<Tatsuki Fujimoto>",
-   "cover":"<https://imgur.com/a/0uXtZXF>",
+   "cover":"<i.imgur.com/9tl4Ssc.jpg>",
    "chapters":{
       "<7>":{
          "title":"<Meowy's Whereabouts>",
@@ -11,7 +11,7 @@
          "groups":{
             "<Thepeciguy>":"/proxy/api/imgur/chapter/<Pfte0ap>/"
          },
-         "last_updated":"1616368746"
+         "last_updated":"1619109323"
       }
    }
 }
